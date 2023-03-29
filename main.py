@@ -3,3 +3,7 @@ def hasL(w):
     for i in range(0, len("l")):
         if hasL[i] == "l":
             num = num + 1
+            print("True")
+    
+        else:
+            print("False")
